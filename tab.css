@@ -10,7 +10,7 @@
   background: #ccc;
   color: #000000;
   padding: 10px 20px;
-  border-radius: 5px 5px 0 0;
+  border-radius: 5px;
 }
 .tab-nav-item.is-active {
   background: #000000;
